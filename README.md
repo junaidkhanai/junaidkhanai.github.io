@@ -53,7 +53,7 @@ Infra:         Docker, AWS, GCP
 - **30+** clients who keep coming back
 - **120+ hours/month** saved for one client's sales team alone
 - **94% accuracy** on a multi-agent customer support system
-- **5+ years** of building things that don't break at scale
+- **2+ years** of building things that don't break at scale
 
 ---
 
